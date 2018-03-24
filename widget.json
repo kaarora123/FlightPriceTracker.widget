@@ -1,0 +1,6 @@
+{
+	"name": "FlightPriceTracker.widget",
+	"description": "Displays price + information about the top three flights found for a specific trip.",
+	"author": "Kashish Arora",
+	"email": "kashisharora99@gmail.com"
+}
