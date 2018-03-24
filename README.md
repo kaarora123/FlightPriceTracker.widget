@@ -12,17 +12,17 @@ it to your widgets folder.
 
 ### Usage
 - Unzip the zip file
-- Open [index.coffee](https://github.com/kaarora123/FlightPriceTracker.widget/blob/master/FlightPriceTracker.widget/index.coffee) and type in your arguments (make sure to read the comments!)
+- Open [index.coffee](https://github.com/kaarora123/FlightPriceTracker.widget/blob/master/index.coffee) and type in your arguments (make sure to read the comments!)
 - Save the file (It will take a few seconds for the widget to show up because the scraping takes some time)
 - Go to Übersicht "Preferences" and make sure you have an "Interaction Shortcut" specified
 - Hold down the interaction shortcut and mouse over the widget to scroll through the flights.
 - Clicking on a flight (while holding the shortcut) will take you to a booking link.
 
 <p align="center">
-  <img src="https://github.com/kaarora123/FlightPriceTrackre.widget/blob/master/screenshot.png?raw=true"/>
+  <img src="https://raw.githubusercontent.com/kaarora123/FlightPriceTracker.widget/master/screenshot.png"/>
 </p>
 
-You can change the styling of the widget in [index.coffee](https://github.com/kaarora123/FlightPriceTracker.widget/blob/master/FlightPriceTracker.widget/index.coffee).
+You can change the styling of the widget in [index.coffee](https://github.com/kaarora123/FlightPriceTracker.widget/blob/master/index.coffee).
 
 <hr/>
 
