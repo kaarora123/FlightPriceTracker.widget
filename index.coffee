@@ -31,10 +31,6 @@ render: (output) -> """
 
 """
 
-afterRender: (_) -> 
-	@refresh()
-
-
 update: (output) ->
 	$(".container").html(output)
 
