@@ -6,7 +6,6 @@ import java.text.NumberFormat;
 import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Set;
 import java.util.logging.Level;
 
 import com.gargoylesoftware.htmlunit.BrowserVersion;
@@ -14,10 +13,6 @@ import com.gargoylesoftware.htmlunit.WebClient;
 import com.gargoylesoftware.htmlunit.html.DomAttr;
 import com.gargoylesoftware.htmlunit.html.DomText;
 import com.gargoylesoftware.htmlunit.html.HtmlPage;
-import com.gargoylesoftware.htmlunit.CookieManager;
-
-import org.apache.http.client.HttpClient;
-import org.apache.http.cookie.Cookie;
 
 
 import main.java.karora.flightpricetracker.ticket.*;
