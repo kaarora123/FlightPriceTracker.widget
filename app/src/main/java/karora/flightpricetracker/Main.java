@@ -32,7 +32,7 @@ public class Main {
 			}
 			html += "</div>";
 			
-			System.out.println(html);
+			System.out.print(html);
 			
 		} catch (NoResultsException e) {
 			System.out.println("<div class = 'error'>Sorry, no results found for your search :(</div>");
