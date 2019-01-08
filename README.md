@@ -24,9 +24,12 @@ it to your widgets folder.
 
 You can change the styling of the widget in [index.coffee](https://github.com/kaarora123/FlightPriceTracker.widget/blob/master/index.coffee).
 
-<hr/>
-
 Please feel free to leave any suggestions or report any issues.
 Thanks!
 
+<hr/>
+
+#### Update 1/8/2019:
+
+Seems like Kayak recognizes HTMLUnit as a bot now, so unfortunately, the program cannot return any valid information anymore :(
 
